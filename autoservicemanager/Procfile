@@ -1,0 +1,1 @@
+web: gunicorn autoservicemanager.wsgi --log-file -
